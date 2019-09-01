@@ -1,0 +1,63 @@
+he history of accounting is thousands of years old and can be traced to ancient civilizations.[12][13][14] The early development of accounting dates back to ancient Mesopotamia, and is closely related to developments in writing, counting and money;[12] there is also evidence of early forms of bookkeeping in ancient Iran,[15][16] and early auditing systems by the ancient Egyptians and Babylonians.[13] By the time of Emperor Augustus, the Roman government had access to detailed financial information.[17]
+
+Double-entry bookkeeping was pioneered in the Jewish community of the early-medieval Middle East[18][19] and was further refined in medieval Europe.[20] With the development of joint-stock companies, accounting split into financial accounting and management accounting.
+
+The first work on a double-entry bookkeeping system was published in Italy, by Luca Pacioli ("Father of Accounting").[21][22] Accounting began to transition into an organized profession in the nineteenth century,[23] with local professional bodies in England merging to form the Institute of Chartered Accountants in England and Wales in 1880.[24]
+
+Etymology
+
+Early 19th-century ledger.
+Both the words accounting and accountancy were in use in Great Britain by the mid-1800s, and are derived from the words accompting and accountantship used in the 18th century.[25] In Middle English (used roughly between the 12th and the late 15th century) the verb "to account" had the form accounten, which was derived from the Old French word aconter,[26] which is in turn related to the Vulgar Latin word computare, meaning "to reckon". The base of computare is putare, which "variously meant to prune, to purify, to correct an account, hence, to count or calculate, as well as to think."[26]
+
+The word "accountant" is derived from the French word compter, which is also derived from the Italian and Latin word computare. The word was formerly written in English as "accomptant", but in process of time the word, which was always pronounced by dropping the "p", became gradually changed both in pronunciation and in orthography to its present form.[27]
+
+Accounting and accountancy
+Accounting has variously been defined as the keeping or preparation of the financial records of an entity, the analysis, verification and reporting of such records and "the principles and procedures of accounting"; it also refers to the job of being an accountant.[28][29][30]
+
+Accountancy refers to the occupation or profession of an accountant,[31][32][33] particularly in British English.[28][29]
+
+Topics
+Accounting has several subfields or subject areas, including financial accounting, management accounting, auditing, taxation and accounting information systems.[7]
+
+Financial accounting
+Main article: Financial accounting
+Financial accounting focuses on the reporting of an organization's financial information to external users of the information, such as investors, potential investors and creditors. It calculates and records business transactions and prepares financial statements for the external users in accordance with generally accepted accounting principles (GAAP).[8] GAAP, in turn, arises from the wide agreement between accounting theory and practice, and change over time to meet the needs of decision-makers.[1]
+
+Financial accounting produces past-oriented reports—for example the financial statements prepared in 2006 reports on performance in 2005—on an annual or quarterly basis, generally about the organization as a whole.[8]
+
+This branch of accounting is also studied as part of the board exams for qualifying as an actuary. These two types of professionals, accountants and actuaries, have created a culture of being archrivals.
+
+Management accounting
+Main article: Management accounting
+Management accounting focuses on the measurement, analysis and reporting of information that can help managers in making decisions to fulfill the goals of an organization. In management accounting, internal measures and reports are based on cost-benefit analysis, and are not required to follow the generally accepted accounting principle (GAAP).[8] In 2014 CIMA created the Global Management Accounting Principles (GMAPs). The result of research from across 20 countries in five continents, the principles aim to guide best practice in the discipline.[34]
+
+Management accounting produces future-oriented reports—for example the budget for 2006 is prepared in 2005—and the time span of reports varies widely. Such reports may include both financial and non financial information, and may, for example, focus on specific products and departments.[8]
+
+Auditing
+Main articles: Financial audit and Internal audit
+Auditing is the verification of assertions made by others regarding a payoff,[35] and in the context of accounting it is the "unbiased examination and evaluation of the financial statements of an organization".[36] Audit is a professional service that is systematic and conventional.[37]
+
+
+An audit of financial statements aims to express or disclaim an opinion on the financial statements. The auditor expresses an opinion on the fairness with which the financial statements presents the financial position, results of operations, and cash flows of an entity, in accordance with the generally acceptable accounting principle (GAAP) and "in all material respects". An auditor is also required to identify circumstances in which the generally acceptable accounting principles (GAAP) has not been consistently observed.[38]
+
+Accounting information systems
+Main article: Accounting information system
+An accounting information system is a part of an organization's information system that focuses on processing accounting data.[39] Many corporations use artificial intelligence-based information systems. Banking and finance industry is using AI as fraud detection. Retail industry is using AI for customer services. AI is also used in cybersecurity industry. It involves computer hardware and software systems and using statistics and modeling.[40]
+
+Tax accounting
+Main article: Tax accounting
+Tax accounting in the United States concentrates on the preparation, analysis and presentation of tax payments and tax returns. The U.S. tax system requires the use of specialised accounting principles for tax purposes which can differ from the generally accepted accounting principles (GAAP) for financial reporting.[41] U.S. tax law covers four basic forms of business ownership: sole proprietorship, partnership, corporation, and limited liability company. Corporate and personal income are taxed at different rates, both varying according to income levels and including varying marginal rates (taxed on each additional dollar of income) and average rates (set as a percentage of overall income).[41]
+
+Forensic accounting
+Main article: Forensic accounting
+Forensic accounting is a specialty practice area of accounting that describes engagements that result from actual or anticipated disputes or litigation. "Forensic" means "suitable for use in a court of law," and it is to that standard and potential outcome that forensic accountants generally have to work.
+
+Organizations
+See also: Category:Accounting organizations.
+Professional bodies
+Main article: Professional accounting body
+Professional accounting bodies include the American Institute of Certified Public Accountants (AICPA) and the other 179 members of the International Federation of Accountants (IFAC),[42] including Institute of Chartered Accountants of Scotland (ICAS), CPA Australia, Association of Chartered Certified Accountants (ACCA) and Institute of Chartered Accountants in England and Wales (ICAEW). Professional bodies for subfields of the accounting professions also exist, for example the Chartered Institute of Management Accountants (CIMA).[43] Many of these professional bodies offer education and training including qualification and administration for various accounting designations, such as certified public accountant and chartered accountant.[44][45]
+
+Accounting firms
+Main article: Accounting networks and associations
+Depending
